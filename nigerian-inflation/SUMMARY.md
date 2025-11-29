@@ -29,12 +29,17 @@ Identified extreme points, e.g., highest and lowest inflation in 2025, and annot
 
 4. Insights:
 
-Monthly plots reveal seasonal spikes, particularly in food inflation.
+Food inflation consistently remains the highest measure.
 
-Yearly averages smooth short-term fluctuations and highlight macro trends.
+Core inflation (All Items Less Farm Produce & Energy) is more stable.
 
-Core inflation (excluding energy) trends are generally lower and more stable than headline or food inflation.
+Spikes occur during:
 
+exchange rate shocks
+
+fuel subsidy removal
+
+global supply chain volatility
 5. Tools & Libraries:
 
 Python (pandas, matplotlib)
