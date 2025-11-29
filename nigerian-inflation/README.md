@@ -5,7 +5,7 @@ It visualizes how different inflation measures — All Items, Food, Core Inflati
 
 Project Structure
 ├── data
-├── inflation_analysis.ipynb
+├── nigeria_inflation.ipynb
 └── README.md
 └── SUMMARY.md
 
