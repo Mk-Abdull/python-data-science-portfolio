@@ -4,11 +4,10 @@ This project analyzes 10 years of Nigeria’s monthly inflation trends using Pyt
 It visualizes how different inflation measures — All Items, Food, Core Inflation, and Energy-adjusted categories — have changed over time.
 
 Project Structure
-├── data/
-│   └── https://www.cbn.gov.ng/rates/inflrates.html
-├── notebooks/
-│   └── inflation_analysis.ipynb
+├── data
+├── inflation_analysis.ipynb
 └── README.md
+└── SUMMARY.md
 
 🔧 Tools & Libraries
 
