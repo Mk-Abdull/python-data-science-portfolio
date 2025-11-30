@@ -32,3 +32,18 @@ This project demonstrates end-to-end financial data analysis capabilities, from 
 - **Jupyter Notebook** for interactive analysis
 - **Statistical Modeling** for financial insights
 - **Data Visualization** for stakeholder communication
+
+  
+## 🚀 Quick Start
+
+### Installation & Setup
+```bash
+# Clone repository
+git clone https://github.com/yourusername/ngx-stock-analysis.git
+cd ngx-stock-analysis
+
+# Install dependencies
+pip install pandas matplotlib seaborn numpy jupyter
+
+# Launch Jupyter
+jupyter notebook
