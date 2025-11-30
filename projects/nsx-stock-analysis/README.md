@@ -19,13 +19,13 @@ This project demonstrates end-to-end financial data analysis capabilities, from 
 
 ## 🚀 Quick Demo
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/ngx-analysis/)
-[View Project Summary](projects/nsx-stock-analysis/ngx_asi_ project_summary.pdf)
+[View Project Summary](ngx_asi_summary.pdf)
 
 ## 📊 Key Results
-- **+224.15%** Total returns identified through time-series analysis
-- **24.80%** Annual volatility calculated for risk assessment
+- **+257.05%%** Total returns identified through time-series analysis
+- **15.26%** Annual volatility calculated for risk assessment
 - **52.5%** Positive trading days analyzed for market sentiment
-- **0.485** Sharpe ratio demonstrating risk-adjusted performance
+- **0.790** Sharpe ratio demonstrating risk-adjusted performance
 
 ## 🛠️ Tech Stack
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
