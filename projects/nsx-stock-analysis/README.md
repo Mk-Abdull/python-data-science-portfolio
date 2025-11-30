@@ -19,7 +19,7 @@ This project demonstrates end-to-end financial data analysis capabilities, from 
 
 ## 🚀 Quick Demo
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/ngx-analysis/)
-[View Project Summary]([PROJECT_SUMMARY.md](https://github.com/Mk-Abdull/python-data-science-portfolio/blob/dd64c93356eca54aeb859093bcd95fcfed004569/projects/nsx-stock-analysis/ngx_asi_%20project_summary.pdf))
+[View Project Summary](projects/nsx-stock-analysis/ngx_asi_ project_summary.pdf)
 
 ## 📊 Key Results
 - **+224.15%** Total returns identified through time-series analysis
