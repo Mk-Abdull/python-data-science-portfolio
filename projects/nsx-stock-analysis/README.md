@@ -32,5 +32,3 @@ This project demonstrates end-to-end financial data analysis capabilities, from 
 - **Jupyter Notebook** for interactive analysis
 - **Statistical Modeling** for financial insights
 - **Data Visualization** for stakeholder communication
-
-## 📁 Project Structure
