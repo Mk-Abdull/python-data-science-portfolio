@@ -120,14 +120,15 @@ Financial analysis is essential for:
 
 This project translates raw transactional records into clear financial intelligence.
 
-🤝 ContributingThis project is part of my data analytics portfolio. While primarily a demonstration of individual skills, I welcome:
+🤝 Contributing
+This project is part of my data analytics portfolio. While primarily a demonstration of individual skills, I welcome:
 
-Suggestions for additional analysis techniques
-
-Ideas for expanding the visualization capabilities
-
-Feedback on code structure and documentation
+- Suggestions for additional analysis techniques
+- Ideas for expanding the visualization capabilities
+- Feedback on code structure and documentation
+  
 PRs and suggestions are welcome.
 Open an issue before proposing major changes.
 
-
+📄 License
+This project is open source and available under the MIT License.
