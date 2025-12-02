@@ -66,7 +66,19 @@ Whether you're running a business, analyzing accounting data, or performing oper
 - **Jupyter Notebook** — Interactive financial analysis  
 - **OS / Pathlib** — Export automation  
 
----
+## 🚀 Quick Start
+
+### Installation & Setup
+
+# Clone repository
+git clone https://github.com/yourusername/revenue-expenses-analysis.git
+cd revenue-expenses-analysis
+
+# Install dependencies
+pip install pandas numpy matplotlib seaborn jupyter
+
+# Launch Jupyter
+jupyter notebook
 
 📈 Example Insights From This Project
 🔹 Profitability Classification
@@ -108,8 +120,13 @@ Financial analysis is essential for:
 
 This project translates raw transactional records into clear financial intelligence.
 
-🤝 Contributing
+🤝 ContributingThis project is part of my data analytics portfolio. While primarily a demonstration of individual skills, I welcome:
 
+Suggestions for additional analysis techniques
+
+Ideas for expanding the visualization capabilities
+
+Feedback on code structure and documentation
 PRs and suggestions are welcome.
 Open an issue before proposing major changes.
 
