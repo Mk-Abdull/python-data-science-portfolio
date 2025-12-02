@@ -37,8 +37,8 @@ Whether you're running a business, analyzing accounting data, or performing oper
 (Replace these links when you upload your repo)
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/revenue-expenses-analysis/)  
-📄 **[View Project Summary PDF](project_summary.pdf)**  
-📁 **[Download Cleaned Dataset](output/cleaned_financials.csv)**
+📄 **[View Project Summary PDF](revenue_expenses_summary.pdf)**  
+
 
 ---
 
